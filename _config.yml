@@ -1,0 +1,14 @@
+layout_spectrum: 0.06899886531755328
+typography_spectrum: 0.8875863272696733
+color:
+  brandStrength: 0.9645241582766175
+  lightness: 0.5995564821641892
+  saturation: 0.1219215125311166
+  rhythmicContrast: 0.3415325814858079
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: noisy machinery
